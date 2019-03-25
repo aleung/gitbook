@@ -18,7 +18,7 @@ Put a file `package.json` into the book folder (an existing book or where you're
     "postinstall": "gitbook install"
   },
   "dependencies": {
-    "@aleung/gitbook": "^3.2.4"
+    "@aleung/gitbook": "^3.2.7"
   }
 }
 ```
