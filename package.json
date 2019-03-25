@@ -1,6 +1,6 @@
 {
   "name": "@aleung/gitbook",
-  "version": "3.2.5",
+  "version": "3.2.6",
   "homepage": "https://github.com/aleung/gitbook",
   "description": "Library and cmd utility to generate GitBooks",
   "main": "lib/index.js",
@@ -11,7 +11,7 @@
     "chokidar": "1.5.0",
     "commander": "2.11.0",
     "cp": "0.2.0",
-    "cpr": "1.1.1",
+    "cpr": "3.0.1",
     "crc": "3.4.0",
     "destroy": "1.0.4",
     "direction": "0.1.5",
