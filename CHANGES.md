@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 4.0.0
+- Switch markdown parser to latest `markup-it` which is using in https://www.gitbook.com/
+- [BREAKING CHANGE] Drop support for AsciiDoc, and now only support an extended Markdown syntax.
+
 ## 3.2.7
 - Fix https://github.com/GitbookIO/gitbook/issues/1309
 
